@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
 // console.log(Date.now())
 
 listTask.addEventListener('click', (e) => {
-    btnAdd(e);
+    btnAdd(e)
 })
 
 formTask.addEventListener('submit', e => {
